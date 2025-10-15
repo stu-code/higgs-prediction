@@ -1,7 +1,7 @@
 # Predicting Higgs Bosons With Machine Learning
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CMS_Higgs-event.jpg/300px-CMS_Higgs-event.jpg"></img>
 
-<sup><cite>Higgs event graphical representation. [Lucas Taylor / CERN](https://commons.wikimedia.org/wiki/File:CMS_Higgs-event.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)</sup></cite>
+<sup><cite>Higgs event graphical representation. [Lucas Taylor / CERN](https://commons.wikimedia.org/wiki/File:CMS_Higgs-event.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en).</sup></cite>
 
 This project explores how hyperparameter autotuning can give you an extra edge in predictive power. This is a great tool to have in your toolbox if to try and get that bit more of accuracy you may need, especially when every point makes a major difference. The goal: create a machine learning model to discriminate between Higgs Boson particles vs. background noise in particle collisions from the [Higgs Boson dataset](https://archive.ics.uci.edu/dataset/280/higgs).
 
