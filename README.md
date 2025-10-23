@@ -14,6 +14,6 @@ For dependencies, see [requirements.txt](./requirements.txt).
 
 # References
 
-Whiteson, D. (2014). HIGGS [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5V312.
-
 Baldi, P., Sadowski, P., & Whiteson, D. (2014, June 5). Searching for exotic particles in high-energy physics with Deep Learning. arXiv.org. https://arxiv.org/abs/1402.4735.
+
+Whiteson, D. (2014). HIGGS [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5V312.
